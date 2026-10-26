@@ -11,7 +11,7 @@ B-1
  - edu → drink, edu → htn
  - drink -* bmi, bmi -* htn (매개 경로)
  - drink -* htn (직접 경로)
- - drink- prog, htn-* prog (충돌부 경로
+ - drink- prog, htn-* prog (충돌부 경로)
 
 2. 후보 변수 6개 이상 네 유형 분류 및 근거
    
