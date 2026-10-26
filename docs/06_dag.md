@@ -6,11 +6,12 @@ B-1
 
 DAG경로
  - age → drink, age → htn
- - male → drink, male → htn
- - edu → drink, edu → htn
- - drink -> bmi, bmi -> htn (매개 경로)
- - drink -> htn (직접 경로)
- - drink- prog, htn -> prog (충돌부 경로)
+ - smk → drink, smk → htn
+ - drink → bmi, bmi → htn
+ - drink → sbp, sbp → htn
+ - drink → chol, chol → htn
+ - drink → htn, htn → death
+ - bs → death
 
 | 변수 | 유형 | 인과구조적 근거 | 
 | :--- | :---: | :---: | 
