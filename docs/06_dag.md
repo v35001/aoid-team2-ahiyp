@@ -4,7 +4,7 @@ B-1
 추정 목표: 고위험음주가 고혈압에 미치는 총 효과
 
 DAG경로
- age → drink, age → htn
+age → drink, age → htn
 male → drink, male → htn
 edu → drink, edu → htn
 drink -> bmi, bmi -> htn (매개 경로)
