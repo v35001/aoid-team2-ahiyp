@@ -6,12 +6,12 @@ B-1
 결과 (Y): 고혈압 여부 (htn)
 추정 목표: 고위험음주가 고혈압에 미치는 총 효과
 
- - age → drink, age → htn
- - male → drink, male → htn
- - edu → drink, edu → htn
- - drink -* bmi, bmi -* htn (매개 경로)
- - drink -* htn (직접 경로)
- - drink- prog, htn-* prog (충돌부 경로)
+ - age -> drink, age -> htn
+ - male -> drink, male -> htn
+ - edu -> drink, edu -> htn
+ - drink -> bmi, bmi -> htn (매개 경로)
+ - drink -> htn (직접 경로)
+ - drink -> prog, htn -> prog (충돌부 경로)
 
 2. 후보 변수 6개 이상 네 유형 분류 및 근거
    
