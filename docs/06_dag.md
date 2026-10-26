@@ -3,8 +3,11 @@ B-1
 1. 연구 질문 및 인과구조(DAG)
 
 노출(X): 음주 여부 또는 음주 빈도 (drink)
+
 결과(Y): 고혈압 여부 (htn)
+
 추정 목표: 고위험음주가 고혈압에 미치는 총효과
+
 DAG 경로
  - age → drink, age → htn
  - male → drink, male → htn
