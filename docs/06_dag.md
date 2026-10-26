@@ -4,13 +4,12 @@ B-1
 추정 목표: 고위험음주가 고혈압에 미치는 총 효과
 
 DAG경로
-
-age → drink, age → htn
-male → drink, male → htn
-edu → drink, edu → htn
-drink -> bmi, bmi -> htn (매개 경로)
-drink -> htn (직접 경로)
-drink- prog, htn -> prog (충돌부 경로)
+ - age → drink, age → htn
+ - male → drink, male → htn
+ - edu → drink, edu → htn
+ - drink -> bmi, bmi -> htn (매개 경로)
+ - drink -> htn (직접 경로)
+ - drink- prog, htn -> prog (충돌부 경로)
 
 | 변수 | 유형 | 인과구조적 근거 | 
 | :--- | :---: | :---: | 
