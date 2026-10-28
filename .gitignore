@@ -219,3 +219,20 @@ __marimo__/
 
 # Data
 data/raw/
+
+# 통계 프로그램 원시자료 파일 (SAS, SPSS 등)
+*.sas7bdat
+*.sav
+*.zsav
+*.dta
+
+# 엑셀 및 텍스트 데이터 파일
+*.csv
+*.xlsx
+*.xls
+*.txt
+
+# 압축 파일
+*.zip
+*.tar
+*.gz
