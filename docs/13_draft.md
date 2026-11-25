@@ -67,6 +67,7 @@ Table 3에서는 주 분석 결과의 일관성을 확인하기 위해 세 가�
 ### 3.1 연구 대상자 선정 흐름도
 
 2024년 국민건강영양조사 전체 대상자 6,997명 중 단계별 포함·제외 기준을 적용한 결과, 최종 5,567명이 기본 분석 대상자로 선정했으며, 이후 분석 목적과 변수의 결측 여부에 따라 분석별 대상자 수를 달리 적용했습니다.
+
 <img width="514" height="431" alt="스크린샷 2026-11-25 133438" src="https://github.com/user-attachments/assets/abbdbb4d-511f-4663-857e-cd37421c8070" />
 
 출처: `code/10_table1.ipynb`, `code/11_regression.ipynb`, `code/12_sensitivity.ipynb`
